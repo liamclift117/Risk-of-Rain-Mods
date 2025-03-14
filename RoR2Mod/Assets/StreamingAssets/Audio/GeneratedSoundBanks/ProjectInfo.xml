@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="RoR2Mod_WwiseProject" GUID="{C831B407-2CD8-48FE-9F90-7833CC900E7A}" Generator="2023.1.4.8496"/>
+	<CacheRoot>../../../../RoR2Mod_WwiseProject/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Mac" GUID="{7BD627F3-C80A-40F6-9D96-4A52D0B7ABAE}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../../RoR2Mod_WwiseProject/GeneratedSoundBanks/Mac"/>
+		<Platform Name="Windows" GUID="{853B0D35-A272-4E51-A627-E798FAE28F4A}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../RoR2Mod_WwiseProject/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{5BE1EDBE-77B0-49A3-9919-0824434F3B3E}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{D3EB3742-0C78-BFC6-C1F7-FF9646F79233}</FileHash>
+</ProjectInfo>
